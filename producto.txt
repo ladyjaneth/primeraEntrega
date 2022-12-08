@@ -1,0 +1,1 @@
+[{"nombre":"parlante","descripcion":"clik","codigo":333,"precio":850,"id":1}]
